@@ -14,9 +14,9 @@
             "debrid_api_key": ""
         }
     },
-    "addon_url": "https://debridproxy.your-domain.com",
-    "mediaflow_url": "http://debridproxy_mediaflow:8888",
-    "external_mediaflow_url": "https://mediaflow.your-domain.com",
+    "addon_url": "",
+    "mediaflow_url": "",
+    "external_mediaflow_url": "",
     "mediaflow_enabled": true,
     "cache_ttl_seconds": 604800,
     "buffer_size_mb": 256,
