@@ -1,5 +1,5 @@
 {
-    "debrid_service": "easydebrid",
+    "debrid_service": "torbox",
     "addon_config": {
         "torrentio": {
             "debrid_service": "",
@@ -11,7 +11,7 @@
         },
         "debridio": {
             "debrid_service": "easydebrid",
-            "debrid_api_key": ""
+            "debrid_api_key": "j3qjefsk4a2ki3pm"
         }
     },
     "addon_url": "https://debridproxy.your-domain.com",
