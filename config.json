@@ -1,5 +1,5 @@
 {
-    "debrid_service": "torbox",
+    "debrid_service": "easydebrid",
     "addon_config": {
         "torrentio": {
             "debrid_service": "",
